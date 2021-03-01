@@ -7,14 +7,25 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
  	<link rel="icon" type="image/icon" href="/media/favicon.ico" />
        	<title>HTML Template</title>
-	<script src="/scripts/app-config.js"></script>
+	<script src="/scripts/index.js"></script>
+	<link rel="stylesheet" href="index.css">
 	
 	<style>
 
 	</style>
 </head>
-	
+
 <body>
-<p>http://google.co.in/search?q=cache:</p>
+	<script type="text/javascript">
+function changeText2(){
+    var userInput = document.getElementById('userInput').value;
+    var lnk = document.getElementById('lnk');
+    lnk.href = "http://google.co.in/search?q=cache:" + userInput;
+    window.location = "http://google.co.in/search?q=cache:" + userInput;
+}
+	Page without css : <a href="" id="lnk">Type Something Below</a> <br>
+<input type='text' id='userInput' value=' ' />
+<input type='button' onclick='changeText2()' value='Change Link'/>
+</script>
 </body>
 </html>
