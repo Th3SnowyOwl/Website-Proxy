@@ -13,9 +13,9 @@ Play the Ludum Dare prototype [here](https://ninja-muffin24.itch.io/friday-night
 ## Credits / Shoutouts
 <table style="width:90%">
   <tr>
-    <th style="text-align:left">🖥 Programmers:</th>
-    <th style="text-align:middle">🖼 Artists:</th>
-    <th style="text-align:right">🎶 Musicians:</th>
+    <th style="text-align:left">🖥 **Programmers:**</th>
+    <th style="text-align:middle">🖼 **Artists:**</th>
+    <th style="text-align:right">🎶 **Musicians:**</th>
   </tr>
 </table>
 <p align="right">
