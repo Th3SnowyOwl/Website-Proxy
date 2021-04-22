@@ -11,9 +11,14 @@ Play the game and support the project on the [Itch.io page](https://ninja-muffin
 Play the Ludum Dare prototype [here](https://ninja-muffin24.itch.io/friday-night-funkin)!
 
 ## Credits / Shoutouts
-
+<table style="width:90%">
+  <tr>
+    <th style="text-align:left">🖥 Programmers:</th>
+    <th style="text-align:middle">🖼 Artists:</th>
+    <th style="text-align:right">🎶 Musicians:</th>
+  </tr>
+</table>
 <p align="right">
-<h3>🖥 Programmers:</h3>					<h3>🖼 Artists:</h3>					<h3>🎶 Musicians:</h3>
 <a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b></a>
 <img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175">
 <a href='https://twitter.com/phantomarcade3k'>PhantomArcade3K</a>
