@@ -14,28 +14,23 @@ Play the Ludum Dare prototype [here](https://ninja-muffin24.itch.io/friday-night
 <table style="span:90%">
   <tr>
     <th style="text-align:left">🖥 Programmers:⠀⠀⠀⠀⠀⠀⠀</th>
-    <th style="text-align:middle">🖼 Artists:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
+    <th style="text-align:middle">🖼 Artists:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
     <th style="text-align:right">🎶 Musicians:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
   </tr>
-</table>
-<table style="span:90%">
   <tr>
     <td>
     	<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b></a><br>
 		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175">
     </td>
     <td>
-    	<a href='https://twitter.com/phantomarcade3k'><b>PhantomArcade3K</b></a><br>
+    	<a href='https://twitter.com/phantomarcade3k'><b>PhantomArcade3K</b></a>⠀⠀⠀⠀<a href='https://twitter.com/evilsk8r'><b>Evilsk8r</b></a><br>
 		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175">
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Evil.png" alt="Evilsk8r" width="175" height="175"><br>
 	</td>
     <td>
     	<a href='https://twitter.com/kawaisprite'><b>Kawaisprite</b></a><br>
         <img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Kawai.png" alt="Kawaisprite" width="175" height="175">
-    <td>
-    	<a href='https://twitter.com/evilsk8r'><b>Evilsk8r</b></a><br>
-		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Evil.png" alt="Evilsk8r" width="175" height="175"><br>
-    </td>
-  </tr>
+	</tr>
 </table>
 <p align="center">
 	<a href="https://www.newgrounds.com/"><img src="/art/preloaderArt.png"></a>
