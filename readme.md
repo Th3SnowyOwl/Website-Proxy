@@ -13,25 +13,30 @@ Play the Ludum Dare prototype [here](https://ninja-muffin24.itch.io/friday-night
 ## Credits / Shoutouts
 <table style="span:90%">
   <tr>
-    <th style="text-align:left">🖥 Programmers:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
+    <th style="text-align:left">🖥 Programmers:⠀⠀⠀⠀⠀⠀⠀</th>
     <th style="text-align:middle">🖼 Artists:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
     <th style="text-align:right">🎶 Musicians:⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</th>
-  </tr>⠀
+  </tr>
 </table>
-<p align="right">
-<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b></a>
-<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175">
-<a href='https://twitter.com/phantomarcade3k'>PhantomArcade3K</a>
-<a href='https://twitter.com/phantomarcade3k'>
-<img href="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175"></a>
-<a href='https://twitter.com/evilsk8r'>Evilsk8r</a>
-<a href='https://twitter.com/evilsk8r'>
-<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Evil.png" alt="Evilsk8r" width="175" height="175"></a>
-<a href='https://twitter.com/kawaisprite'>Kawaisprite</a>
-<a href='https://twitter.com/kawaisprite'>
-<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Kawai.png" alt="Kawaisprite" width="175" height="175"></a>
-</p>
-
+<table style="span:90%">
+  <tr>
+    <td>
+    	<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b></a><br>
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175">
+    </td>
+    <td>
+    	<a href='https://twitter.com/phantomarcade3k'><b>PhantomArcade3K</b></a><br>
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175">
+	</td>
+    <td>
+    	<a href='https://twitter.com/kawaisprite'><b>Kawaisprite</b></a><br>
+        <img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Kawai.png" alt="Kawaisprite" width="175" height="175">
+    <td>
+    	<a href='https://twitter.com/evilsk8r'><b>Evilsk8r</b></a><br>
+		<img src="https://raw.githubusercontent.com/TentaRJ/Funkin/PR-BRANCH/art/Evil.png" alt="Evilsk8r" width="175" height="175"><br>
+    </td>
+  </tr>
+</table>
 <p align="center">
 	<a href="https://www.newgrounds.com/"><img src="/art/preloaderArt.png"></a>
 </p>
