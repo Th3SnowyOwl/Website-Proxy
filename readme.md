@@ -14,13 +14,17 @@ Play the Ludum Dare prototype [here](https://ninja-muffin24.itch.io/friday-night
 
 <p align="right">
 <h3>🖥 Programmers:</h3>   <h3>🖼 Artists:</h3>   <h3>🎶 Musicians:</h3>
-<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b><br><img src="/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175"></a>
+<a href='https://twitter.com/ninja_muffin99'><b>NinjaMuffin99</b>
+<img src="/art/Ninja.png" alt="NinjaMuffin99" width="175" height="175"></a>
 <a href='https://twitter.com/phantomarcade3k'>PhantomArcade3K</a>
-<a href='https://twitter.com/phantomarcade3k'><img src="/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175"></a>
+<a href='https://twitter.com/phantomarcade3k'>
+<img src="/art/Phantom.png" alt="PhantomArcade3K" width="175" height="175"></a>
 <a href='https://twitter.com/evilsk8r'>Evilsk8r</a>
-<a href='https://twitter.com/evilsk8r'><img src="/art/Evil.png" alt="Evilsk8r" width="175" height="175"></a>
+<a href='https://twitter.com/evilsk8r'>
+<img src="/art/Evil.png" alt="Evilsk8r" width="175" height="175"></a>
 <a href='https://twitter.com/kawaisprite'>Kawaisprite</a>
-<a href='https://twitter.com/kawaisprite'><img src="/art/Kawai.png" alt="Kawaisprite" width="175" height="175"></a>
+<a href='https://twitter.com/kawaisprite'>
+<img src="/art/Kawai.png" alt="Kawaisprite" width="175" height="175"></a>
 </p>
 
 <p align="center">
